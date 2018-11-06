@@ -5,7 +5,7 @@ This is a working Rails app with Active Storage loaded. You should be able to cl
 
 I followed along with [this tutorial](https://youtu.be/tzkezfqW8Ck) to get this set up.
 
-Things you may want to cover:
+Versions:
 
 * Ruby version
 2.5.1p57
